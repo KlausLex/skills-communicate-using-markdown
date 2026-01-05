@@ -4,5 +4,10 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-###### This is an image of Yaktocat
+### This is an image of Yaktocat
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### This is a code example for javascript
+``` javascript
+var myVar = "Hello, world!";
+```
